@@ -43,11 +43,5 @@ Currently exploring cognitive architectures and what it means for a system to *k
 
 ---
 
-### 🧠 What I'm Into
-
-| | |
-|---|---|
-| 🧠 **Cognitive architectures** — Active Inference, IIT, emergent agency | ⚙️ **Systems programming** — C, memory models, bare-metal curiosity |
-| 📡 **Neuro-inspired ML** — neurotransmitter models, somatic markers | 🐧 **Linux internals** — kernel, scheduling, proc filesystem |
 
 
