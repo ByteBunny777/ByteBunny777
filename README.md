@@ -23,7 +23,7 @@ A researcher and tinkerer somewhere between machine learning theory and bare-met
 I write Python when I think fast, C when I think carefully, and stare at kernel logs when I think too much.
 Currently exploring cognitive architectures and what it means for a system to *know* something.
 
-🌍 Ukraine &nbsp;·&nbsp; 🔭 AI research &nbsp;·&nbsp; ⚡ always compiling something
+🔭 AI research &nbsp;·&nbsp; ⚡ always compiling something
 
 ---
 
