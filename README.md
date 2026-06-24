@@ -51,20 +51,7 @@ Currently exploring cognitive architectures and what it means for a system to *k
 | 🧠 **Cognitive architectures** — Active Inference, IIT, emergent agency | ⚙️ **Systems programming** — C, memory models, bare-metal curiosity |
 | 📡 **Neuro-inspired ML** — neurotransmitter models, somatic markers | 🐧 **Linux internals** — kernel, scheduling, proc filesystem |
 
----
 
-### 💻 Quick bio
-
-```python
-# bytebunny.py
-profile = {
-    "name":             "ByteBunny",
-    "focus":            "AI research · cognitive systems",
-    "languages":        ["Python", "C", "Julia", "Bash"],
-    "os":               "Arch btw (actually)",
-    "currently_reading": "Friston 2022 + kernel docs",
-    "open_to":          ["collabs", "weird ideas", "PRs"],
-}
 ```
 
 <div align="center">
