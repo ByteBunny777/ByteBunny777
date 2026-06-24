@@ -31,7 +31,6 @@ Currently exploring cognitive architectures and what it means for a system to *k
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F89939?style=flat&logo=scikitlearn&logoColor=white)
@@ -52,8 +51,3 @@ Currently exploring cognitive architectures and what it means for a system to *k
 | 📡 **Neuro-inspired ML** — neurotransmitter models, somatic markers | 🐧 **Linux internals** — kernel, scheduling, proc filesystem |
 
 
-```
-
-<div align="center">
-<sub>// rabbit in the machine 🐇</sub>
-</div>
