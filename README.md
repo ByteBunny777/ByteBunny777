@@ -41,4 +41,6 @@ Currently exploring cognitive architectures and what it means for a system to *k
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
+## Contact Me
 
+[![Email](https://img.shields.io/badge/Email-ByteBunny777%40proton.me-blue?style=flat-square&logo=protonmail)](mailto:ByteBunny777@proton.me)
