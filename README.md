@@ -27,6 +27,18 @@ Currently exploring cognitive architectures and what it means for a system to *k
 
 ---
 
+### 🤝 Support a Fellow Builder
+
+My friend [**Stell**](https://github.com/stell2026) is building **[Anima](https://github.com/stell2026/Anima)** — an experimental cognitive architecture exploring active inference, IIT, and decision-making without relying on LLMs as the reasoning core.
+
+If it looks interesting to you, a ⭐ star, 👀 watch, or 🍴 fork would mean a lot to them — and I'll gladly return the favor for your projects too!
+
+[![Star Anima](https://img.shields.io/badge/⭐_Star-Anima-8A2BE2?style=flat-square)](https://github.com/stell2026/Anima/stargazers)
+[![Fork Anima](https://img.shields.io/badge/🍴_Fork-Anima-6A0DAD?style=flat-square)](https://github.com/stell2026/Anima/fork)
+[![Watch Anima](https://img.shields.io/badge/👀_Watch-Anima-9370DB?style=flat-square)](https://github.com/stell2026/Anima/subscription)
+
+---
+
 ### 🛠 Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
