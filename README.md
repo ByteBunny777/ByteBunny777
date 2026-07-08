@@ -53,6 +53,17 @@ If it looks interesting to you, a ⭐ star, 👀 watch, or 🍴 fork would mean 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
+---
+
+### 💼 Available for Collaboration
+Open to interesting problems — from quick fixes to deep architecture work.
+No task too complex, no rabbit hole too deep. If you've got something worth building, let's talk.
+
+[![Available](https://img.shields.io/badge/Status-Open_to_Work-8A2BE2?style=flat-square)](mailto:ByteBunny777@proton.me)
+[![Hire Me](https://img.shields.io/badge/💬_Let's_Collaborate-6A0DAD?style=flat-square)](mailto:ByteBunny777@proton.me)
+
+---
+
 ## Contact Me
 
 [![Email](https://img.shields.io/badge/Email-ByteBunny777%40proton.me-blue?style=flat-square&logo=protonmail)](mailto:ByteBunny777@proton.me)
