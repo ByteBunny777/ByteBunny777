@@ -39,17 +39,6 @@ Currently exploring cognitive architectures and what it means for a system to *k
 
 ---
 
-### 📊 The Numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ByteBunny777&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=8A2BE2&text_color=c9d1d9&ring_color=8A2BE2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBunny777&layout=compact&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=c9d1d9" />
-
-</div>
-
----
-
 ### 🤝 Support a Fellow Builder
 
 My friend [**Stell**](https://github.com/stell2026) is building **[Anima](https://github.com/stell2026/Anima)** — an experimental cognitive architecture exploring active inference, IIT, and decision-making without leaning on an LLM as the reasoning core.
