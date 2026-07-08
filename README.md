@@ -10,7 +10,9 @@
 ╚═════╝    ╚═╝      ╚═╝   ╚══════╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝   ╚═╝  
 ```
 
-*// curious mind · fast iterations · low-level roots*
+<a href="https://github.com/ByteBunny777">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=9370DB&center=true&vCenter=true&width=460&lines=curious+mind+%C2%B7+fast+iterations;low-level+roots+%C2%B7+high-level+questions;compiling+something%2C+always" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -19,19 +21,40 @@
 ### 👋 Hi, I'm ByteBunny
 
 A researcher and tinkerer somewhere between machine learning theory and bare-metal code.
-
 I write Python when I think fast, C when I think carefully, and stare at kernel logs when I think too much.
-Currently exploring cognitive architectures and what it means for a system to *know* something.
 
-🔭 AI research &nbsp;·&nbsp; ⚡ always compiling something
+Currently exploring cognitive architectures and what it means for a system to *know* something — not simulate knowing, actually hold a state that persists.
+
+> *"Most systems react. The interesting ones remember why."*
+
+🔭 AI research &nbsp;·&nbsp; ⚡ always compiling something &nbsp;·&nbsp; 🐇 fast, occasionally reckless
+
+---
+
+### 🧠 Currently Thinking About
+
+- Whether "understanding" needs embodiment, or just enough recursive structure to fake it convincingly
+- Active inference vs. backprop-trained policies — different roads, same destination?
+- Where exactly a system stops *predicting* and starts *deciding*
+
+---
+
+### 📊 The Numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ByteBunny777&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9370DB&icon_color=8A2BE2&text_color=c9d1d9&ring_color=8A2BE2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBunny777&layout=compact&hide_border=true&bg_color=0D1117&title_color=9370DB&text_color=c9d1d9" />
+
+</div>
 
 ---
 
 ### 🤝 Support a Fellow Builder
 
-My friend [**Stell**](https://github.com/stell2026) is building **[Anima](https://github.com/stell2026/Anima)** — an experimental cognitive architecture exploring active inference, IIT, and decision-making without relying on LLMs as the reasoning core.
+My friend [**Stell**](https://github.com/stell2026) is building **[Anima](https://github.com/stell2026/Anima)** — an experimental cognitive architecture exploring active inference, IIT, and decision-making without leaning on an LLM as the reasoning core.
 
-If it looks interesting to you, a ⭐ star, 👀 watch, or 🍴 fork would mean a lot to them — and I'll gladly return the favor for your projects too!
+If that sounds like your kind of rabbit hole, a ⭐ star, 👀 watch, or 🍴 fork would go a long way — and I'll happily return the favor on your projects too.
 
 [![Star Anima](https://img.shields.io/badge/⭐_Star-Anima-8A2BE2?style=flat-square)](https://github.com/stell2026/Anima)
 [![Fork Anima](https://img.shields.io/badge/🍴_Fork-Anima-6A0DAD?style=flat-square)](https://github.com/stell2026/Anima/fork)
@@ -62,6 +85,7 @@ If it looks interesting to you, a ⭐ star, 👀 watch, or 🍴 fork would mean 
 ---
 
 ### 💼 Available for Collaboration
+
 Open to interesting problems — from quick fixes to deep architecture work.
 No task too complex, no rabbit hole too deep. If you've got something worth building, let's talk.
 
