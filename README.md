@@ -86,3 +86,4 @@ No task too complex, no rabbit hole too deep. If you've got something worth buil
 ## Contact Me
 
 [![Email](https://img.shields.io/badge/Email-ByteBunny777%40proton.me-blue?style=flat-square&logo=protonmail)](mailto:ByteBunny777@proton.me)
+.
